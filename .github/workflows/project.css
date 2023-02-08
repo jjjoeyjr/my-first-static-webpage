@@ -1,0 +1,42 @@
+body {
+    color: #eea47fff;
+}
+html {
+    background-color: #00539cff;
+}
+.Nav {
+    border-style: solid;
+    border-color: #eea47fff;
+    padding: 28px 28px 28px 28px;
+    text-align: center;
+    
+}
+.Nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px 10px 10px 10px;
+  width: 200px;
+}
+a:hover{
+    background-color: bisque;
+    transition: 1s;
+}
+
+.hd1 {
+    border-style: solid;
+    border-color: black;
+    padding: 20px;
+    margin: none;
+    text-align: center;
+}
+.sec2 {
+    text-align: center;
+    margin-left: 50px;
+}
+.tab {
+    border-style: solid;
+    border-color: black;
+
+    
+    margin-left:  140px ;
+}

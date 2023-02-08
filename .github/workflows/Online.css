@@ -1,0 +1,45 @@
+body {
+    color: #eea47fff;
+}
+html {
+    background-color: #00539cff;
+}
+.Nav {
+    border-style: solid;
+    border-color: #eea47fff;
+    padding: 28px 28px 28px 28px;
+    text-align: center;
+
+    
+}
+.Nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px 10px 10px 10px;
+  width: 200px;
+}
+a:hover{
+    background-color: bisque;
+    transition: 1s;
+}
+h1 {
+    text-align: center;
+    padding: 20px 45px 80px 90px;
+    
+}
+h1,h3 {
+    text-align: center;
+}
+.o1,.o2,.o3,.o4,.o4,.o5,.o6 {
+    text-align: center;
+}
+.sec1 {
+ border-style: solid;
+ border-color: rgb(0, 0, 0);
+ padding: 20px 30px 20px 30px
+ 
+}
+.im1,.im2,.im3,.im4,.im5 {
+text-align: center;
+
+}
